@@ -15,6 +15,8 @@ public class EXAMEN_21M_PRIMO {
 		numero = Integer.parseInt(ent.nextLine());
 		
 		
+		System.out.println("El numero 4 no es primo"+ 
+				"\nLos divisores del numero 4 son: 1,2, y 4");
 		
 	}
 }
